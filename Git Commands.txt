@@ -46,4 +46,4 @@ $ git clone <codeLink>
             https://github.com/DevDanGTM/myappsample.git
 
 TO GET CHANGES:
-$ git pull
+$ git pull.
