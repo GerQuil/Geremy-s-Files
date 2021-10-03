@@ -47,3 +47,4 @@ $ git clone <codeLink>
 
 TO GET CHANGES:
 $ git pull.
+Im the one
